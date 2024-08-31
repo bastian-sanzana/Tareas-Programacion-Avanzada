@@ -1,0 +1,2 @@
+#qwertyuiop
+print(1)
